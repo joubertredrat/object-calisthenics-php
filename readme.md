@@ -5,7 +5,7 @@ Este repositório faz parte das seguintes palestras:
 
 ## Dependências
 
-* [php 8.1](https://www.php.net/).
+* [PHP 8.1](https://www.php.net/).
 * [Composer 2](https://getcomposer.org/).
 
 ## Execução
