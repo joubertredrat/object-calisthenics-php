@@ -1,0 +1,22 @@
+{
+  "name": "joubertredrat/object-calisthenics-php",
+  "type": "project",
+  "license": "MIT",
+  "autoload": {
+    "psr-4": {
+      "JoubertRedRat\\ObjectCalisthenicsPhp\\": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "Joubert RedRat",
+      "email": "eu+git@redrat.com.br"
+    }
+  ],
+  "require": {
+    "php": ">=8.1"
+  },
+  "require-dev": {
+    "symfony/var-dumper": "^6.1"
+  }
+}
