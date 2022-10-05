@@ -1,7 +1,7 @@
 # Object Calisthenics PHP
 
 Este repositório faz parte das seguintes palestras:
-* [O poder do Object Calisthenics no PHP]()
+* [O poder do Object Calisthenics no PHP](https://speakerdeck.com/joubertredrat/o-poder-do-object-calisthenics-no-php).
 
 ## Dependências
 
